@@ -1,6 +1,6 @@
 # Factored_Workshops_DSFem
 
-##Session 1
+## Session 1
 
 - Manejo de datos con pandas.
 - Carga de datasets desde un bucket de S3 (AWS)Procesamiento con pandas Visualizar datos con matplotlib y seaborn.
